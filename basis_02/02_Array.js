@@ -21,5 +21,7 @@ let score1 = 100
 let score2 = 400
 let score3 = 900
 console.log(Array.of(score1,score2,score3));
+console.log(Array.from("yash"));
+
 
 
